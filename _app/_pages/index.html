@@ -24,8 +24,13 @@ thumb_force_logo: true
   </header>
 
   <div class="page-content">
-    <h2>Works</h2>
+    <h2>Commissions</h2>
     {% for post in site.tags.getting-started %}
+      {%- include themes/{{ site.amsf_theme }}/includes/page-item.html -%}
+    {% endfor %}
+
+    <h2>Community</h2>
+    {% for post in site.tags.customization %}
       {%- include themes/{{ site.amsf_theme }}/includes/page-item.html -%}
     {% endfor %}
   </div>
