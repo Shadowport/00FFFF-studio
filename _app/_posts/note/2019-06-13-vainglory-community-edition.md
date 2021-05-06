@@ -3,7 +3,8 @@ layout: post
 title: Vainglory Community Edition Submission
 category: note
 tags: customization
-scheme-hero-text: "#28866D"
+scheme-bg: "#000"
+scheme-text: "fff"
 ---
 
 ## Submission of Vainglory Community Edition 
