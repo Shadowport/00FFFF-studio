@@ -2,20 +2,17 @@
 layout: page
 title: About
 permalink: /about/
-desc: 關於・サンプルページ・Example Page
+desc: 关于・關於・Inform
 ---
 
-This is an example About page.
-
-Sparanoid is a design studio operated by Tunghsiao Liu. You can ping me on [Twitter](https://twitter.com/tunghsiao) or send correspondence to [t@sparanoid.com](mailto:t@sparanoid.com).
+00FFFF is a design studio operated by Ruizhe Wang. You can ping me on [Twitter](https://twitter.com/00FFFF) or send correspondence to [t@00FFFF.design](mailto:t@00FFFF.design).
 
 ## Colophon
 
 [AMSF](https://sparanoid.com/lab/amsf/) ([Source](https://github.com/sparanoid/sparanoid.com)) -
 [GitHub](https://github.com/) -
-[CloudFront](https://aws.amazon.com/cloudfront/) -
-[Textmate](https://macromates.com/)
+[Vercel](https://vercel.com/)
 
-All posts are &copy; Sparanoid, Inc., all rights reserved.
+All posts are &copy; 00FFFF, Inc., all rights reserved.
 
-*[AMSF]: Almace Scaffolding
+*[AMSF]: Almace Scaffolding, a very fast jekyll framework.
