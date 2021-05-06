@@ -10,6 +10,7 @@ thumb_force_logo: true
 
   <!-- Post title -->
   <header>
+
   
 
     <h1 class="image-title">
@@ -24,6 +25,14 @@ thumb_force_logo: true
   </header>
 
   <div class="page-content">
+
+  <h2>Newsletter</h2>
+    <section class="list">
+        <h1><a href="https://00FFFF.vercel.app/newsletters/">Subscribe to our Newsletter</a></h1>
+    </section>
+
+
+
     <h2>Works</h2>
     {% for post in site.tags.getting-started %}
       {%- include themes/{{ site.amsf_theme }}/includes/page-item.html -%}
@@ -35,8 +44,8 @@ thumb_force_logo: true
     {% endfor %}
 
     <h2>Photography</h2>
-        <section class="list">
-            <h1><a href="https://hellocars.surge.sh">Project Hello Cars</a></h1>
-        </section>
+    <section class="list">
+        <h1><a href="https://hellocars.surge.sh">Project Hello Cars</a></h1>
+    </section>
   </div>
 </article>
