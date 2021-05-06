@@ -5,7 +5,7 @@ permalink: /about/
 desc: 关于・關於・Inform
 ---
 
-00FFFF is a design studio operated by Ruizhe Wang. You can ping me on [Twitter](https://twitter.com/00FFFF) or send correspondence to [t@00FFFF.design](mailto:t@00FFFF.design).
+00FFFF is a design studio operated by Ruizhe Wang. You can ping me on [Twitter](https://twitter.com/_00FFFF) or send correspondence to [t@00FFFF.design](mailto:t@00FFFF.studio).
 
 ## Colophon
 
