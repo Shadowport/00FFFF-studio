@@ -66,7 +66,7 @@ dev:            false
 # Site name
 #
 # Default:      Almace Scaffolding
-name:           00FFFF (CYAN)
+name:           00FFFF
 
 # Site short name
 #
@@ -82,7 +82,7 @@ name:           00FFFF (CYAN)
 # - name_short: Sparanoid
 #
 # Default:      AMSF
-name_short:     00FFFF
+name_short:     CYAN
 
 # Site description
 #
