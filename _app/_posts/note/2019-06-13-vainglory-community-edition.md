@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vainglory Community Edition
+title: "Vainglory: Community Edition Art Contest"
 category: note
 tags: customization
 scheme-bg: "#000"
@@ -13,7 +13,7 @@ heading-bg-repeat: "no-repeat"
 heading-bg-text: "#fff"
 ---
 
-## Submission for Vainglory Community Edition 
+## Nominated Submission for Vainglory Community Edition Art Contest
 ![image](assets/img/vain1.svg)
 ![image](assets/img/vain2.svg)
 ![image](assets/img/vain3.svg)
