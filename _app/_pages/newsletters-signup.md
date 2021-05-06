@@ -15,14 +15,7 @@ Sign up for the newsletter. You will get email updates when new posts are publis
 <script src="https://js.stripe.com/v3"></script>
 
 <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
-<button
-  style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
-  id="checkout-button-price_1IlrMKBvZ7LmT93teJNEk6aQ"
-  role="link"
-  type="button"
->
-  Checkout
-</button>
+<button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-price_1IlrMKBvZ7LmT93teJNEk6aQ" role="link" type="button">Checkout</button>
 
 <div id="error-message"></div>
 
