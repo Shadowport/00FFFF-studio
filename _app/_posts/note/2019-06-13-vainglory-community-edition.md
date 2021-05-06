@@ -5,7 +5,7 @@ category: note
 tags: customization
 scheme-bg: "#000"
 scheme-text: "#fff"
-heading-bg: img/vain3.svg
+heading-bg: img/heading-background-example.jpg
 heading-bg-local: true
 heading-bg-color: "#000"
 heading-bg-size: "cover"
