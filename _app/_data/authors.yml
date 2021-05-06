@@ -7,10 +7,10 @@
 # {{ author.web }}: used in atom feed
 # {{ author.twitter }}: used by Twitter Cards
 default:
-  name:         Tunghsiao Liu
-  email:        t@sparanoid.com
-  web:          https://sparanoid.com/
-  twitter:      tunghsiao
+  name:         Ruizhe Wang
+  email:        t@00FFFF.studio
+  web:          https://00FFFF.vercel.app/
+  twitter:      00FFFF
 
 tester:
   name:         Tester
