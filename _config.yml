@@ -66,7 +66,7 @@ dev:            false
 # Site name
 #
 # Default:      Almace Scaffolding
-name:           Almace Scaffolding
+name:           00FFFF(Studio Cyan)
 
 # Site short name
 #
@@ -82,14 +82,14 @@ name:           Almace Scaffolding
 # - name_short: Sparanoid
 #
 # Default:      AMSF
-name_short:     AMSF
+name_short:     00FFFF
 
 # Site description
 #
 # Will be used in the document meta and Atom feed subtitle
 #
 # Default:      Super-fast Jekyll framework
-description:    Super-fast Jekyll framework
+description:    00FFFF, a design studio
 
 # Base URL
 #
@@ -99,7 +99,7 @@ description:    Super-fast Jekyll framework
 # `/my-project`, without trailing slash.
 #
 # Default:      ""
-baseurl:        /lab/amsf
+baseurl:        ""
 
 # Flatten base
 #
@@ -129,7 +129,7 @@ feed:           /feed.xml
 # URLs for these fields
 #
 # Default:      https://sparanoid.com
-url:            https://sparanoid.com
+url:            https://00FFFF.vercel.app
 
 # Media assets URL
 #
@@ -158,7 +158,7 @@ download:       https://d1bmx7s6749k4k.cloudfront.net
 #
 # Used by Safari mask-icon, Chrome Web App theme color
 colors:
-  theme:        "#ff00b4"
+  theme:        "#00FFFF"
   background:   "#fff"
 
 # Service Worker Precache
@@ -176,7 +176,7 @@ google_analytics:
   url:          https://www.google-analytics.com/analytics.js
 
 # Site Twitter account handle
-twitter:        sparanoid
+twitter:        00FFFF
 
 # Twitter Cards large images
 #
