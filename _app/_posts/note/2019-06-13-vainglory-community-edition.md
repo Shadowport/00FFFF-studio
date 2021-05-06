@@ -4,7 +4,7 @@ title: Vainglory Community Edition Submission
 category: note
 tags: customization
 scheme-bg: "#000"
-scheme-text: "fff"
+scheme-text: "#fff"
 ---
 
 ## Submission of Vainglory Community Edition 
