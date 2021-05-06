@@ -5,9 +5,9 @@ permalink: /newsletters/
 desc: 電郵訂閱・ニュースレター・Newsletters
 ---
 
-![image](assets/img/640-1.jpg)
+![image](../assets/img/example.jpg)
 
-Sign up for the newsletter. You will get email updates when new posts are published.
+Sign up for the newsletter. You will get email updates when exclusive readings are published.
 
 <form>
   <input name="EMAIL" type="email" placeholder="Your Email" required>
