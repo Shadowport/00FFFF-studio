@@ -17,7 +17,14 @@ Sign up for the newsletter. You will get email updates when exclusive readings a
 <script src="https://js.stripe.com/v3"></script>
 
 <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
-<button style="background-color:#00ffff;color:#000;padding:12px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-price_1IlrMKBvZ7LmT93teJNEk6aQ" role="link" type="button">Sign up for $5 per month</button>
+<button
+  style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em;cursor:pointer"
+  id="checkout-button-price_1JBb9BBvZ7LmT93tZDhC6hJP"
+  role="link"
+  type="button"
+>
+  Checkout
+</button>
 
 <div id="error-message"></div>
 
@@ -25,15 +32,15 @@ Sign up for the newsletter. You will get email updates when exclusive readings a
 (function() {
   var stripe = Stripe('pk_live_51Ifl9MBvZ7LmT93tfkpybDhly6KAaEJuQWju16Kd50qvTE8xIQiQpmFbP1X5ow8sOiMpeW6q3xz0Gug8383ubY9h005suqpzL5');
 
-  var checkoutButton = document.getElementById('checkout-button-price_1IlrMKBvZ7LmT93teJNEk6aQ');
+  var checkoutButton = document.getElementById('checkout-button-price_1JBb9BBvZ7LmT93tZDhC6hJP');
   checkoutButton.addEventListener('click', function () {
     /*
      * When the customer clicks on the button, redirect
      * them to Checkout.
      */
     stripe.redirectToCheckout({
-      lineItems: [{price: 'price_1IlrMKBvZ7LmT93teJNEk6aQ', quantity: 1}],
-      mode: 'subscription',
+      lineItems: [{price: 'price_1JBb9BBvZ7LmT93tZDhC6hJP', quantity: 1}],
+      mode: 'payment',
       /*
        * Do not rely on the redirect to the successUrl for fulfilling
        * purchases, customers may not always reach the success_url after
