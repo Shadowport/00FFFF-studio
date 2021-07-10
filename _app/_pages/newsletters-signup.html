@@ -30,6 +30,7 @@ thumb_force_logo: true
     stripe.redirectToCheckout({
       lineItems: [{price: 'price_1JBb9BBvZ7LmT93tZDhC6hJP', quantity: 1}],
       mode: 'payment',
+      payment_method_types: ['alipay'],
       /*
        * Do not rely on the redirect to the successUrl for fulfilling
        * purchases, customers may not always reach the success_url after
