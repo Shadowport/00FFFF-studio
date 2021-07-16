@@ -69,13 +69,13 @@ $breakpoint-xs: 400px !default;
   --text-color-70: hsla(var(--text-color-hsl), .7);
   --text-color-80: hsla(var(--text-color-hsl), .8);
   --text-color-90: hsla(var(--text-color-hsl), .9);
-  --text-color-light: #000;
-  --text-color-dark: #fff;
+  --text-color-light: hsl(var(--text-color-h), var(--text-color-s), calc(var(--text-color-l) / .9));
+  --text-color-dark: hsl(var(--text-color-h), var(--text-color-s), calc(var(--text-color-l) * .9));
 
   // Color - link color
   --link-color-h: 0;
   --link-color-s: 0%;
-  --link-color-l: 0%;
+  --link-color-l: 50%;
   --link-color-hsl: var(--link-color-h), var(--link-color-s), var(--link-color-l);
 
   --link-color: hsl(var(--link-color-hsl));
@@ -92,8 +92,8 @@ $breakpoint-xs: 400px !default;
   --link-color-70: hsla(var(--link-color-hsl), .7);
   --link-color-80: hsla(var(--link-color-hsl), .8);
   --link-color-90: hsla(var(--link-color-hsl), .9);
-  --link-color-light: #000;
-  --link-color-dark: #fff;
+  --link-color-light: hsl(var(--link-color-h), var(--link-color-s), calc(var(--link-color-l) / .9));
+  --link-color-dark: hsl(var(--link-color-h), var(--link-color-s), calc(var(--link-color-l) * .9));
 
   // Color - background color
   --bg-color-h: 318;
@@ -115,9 +115,9 @@ $breakpoint-xs: 400px !default;
   --bg-color-70: hsla(var(--bg-color-hsl), .7);
   --bg-color-80: hsla(var(--bg-color-hsl), .8);
   --bg-color-90: hsla(var(--bg-color-hsl), .9);
-  --bg-color-light: #fff;
-  --bg-color-dark: #000;
-  
+  --bg-color-light: hsl(var(--bg-color-h), var(--bg-color-s), calc(var(--bg-color-l) / .9));
+  --bg-color-dark: hsl(var(--bg-color-h), var(--bg-color-s), calc(var(--bg-color-l) * .9));
+
   // Color - code color
   --code-color-h: calc(var(--link-color-h) + 30);
   --code-color-s: calc(var(--link-color-s) * .2 + 30%);
