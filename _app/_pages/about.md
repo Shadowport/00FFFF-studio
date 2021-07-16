@@ -5,7 +5,7 @@ permalink: /about/
 desc: 关于・關於・Inform
 ---
 
-Hi I am Ruizhe Wang. You can ping me on [Twitter](https://twitter.com/Shadowport_) or send correspondence to [hi_at_ruizhe.wang](mailto:hi@ruizhe.wang).
+You can ping me on [Twitter](https://twitter.com/Shadowport_) or send correspondence to [hi@ruizhe.wang](mailto:hi@ruizhe.wang).
 
 ## Colophon
 

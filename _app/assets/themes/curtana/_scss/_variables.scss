@@ -96,9 +96,9 @@ $breakpoint-xs: 400px !default;
   --link-color-dark: hsl(var(--link-color-h), var(--link-color-s), calc(var(--link-color-l) * .9));
 
   // Color - background color
-  --bg-color-h: 318;
-  --bg-color-s: 30%;
-  --bg-color-l: 100%;
+  --bg-color-h: 0;
+  --bg-color-s: 0%;
+  --bg-color-l: 0%;
   --bg-color-hsl: var(--bg-color-h), var(--bg-color-s), var(--bg-color-l);
 
   --bg-color: hsl(var(--bg-color-hsl));
