@@ -4,6 +4,7 @@ title: JinHe Human Resources Branding
 category: note
 tags: getting-started
 scheme-hero-text: "#28866D"
+plugin: lightense
 ---
 
 ## Branding for Shenzhen Jinhe Human Resources Co., Ltd.

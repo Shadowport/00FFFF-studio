@@ -11,6 +11,7 @@ heading-bg-color: "#000"
 heading-bg-size: "cover"
 heading-bg-repeat: "no-repeat"
 heading-bg-text: "#fff"
+plugin: lightense
 ---
 
 ## Nominated Submission for Vainglory Community Edition Art Contest
