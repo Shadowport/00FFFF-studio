@@ -5,14 +5,12 @@ permalink: /about/
 desc: 关于・關於・Inform
 ---
 
-00FFFF is a design studio operated by Ruizhe Wang. You can ping me on [Twitter](https://twitter.com/_00FFFF) or send correspondence to [t@00FFFF.design](mailto:t@00FFFF.studio).
+Hi I am Ruizhe Wang. You can ping me on [Twitter](https://twitter.com/Shadowport_) or send correspondence to [hi_at_ruizhe.wang](mailto:hi@ruizhe.wang).
 
 ## Colophon
 
 [AMSF](https://sparanoid.com/lab/amsf/) ([Source](https://github.com/sparanoid/sparanoid.com)) -
 [GitHub](https://github.com/) -
 [Vercel](https://vercel.com/)
-
-All posts are &copy; 00FFFF, Inc., all rights reserved.
 
 *[AMSF]: Almace Scaffolding, a very fast jekyll framework.

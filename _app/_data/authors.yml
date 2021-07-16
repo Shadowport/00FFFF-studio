@@ -8,9 +8,9 @@
 # {{ author.twitter }}: used by Twitter Cards
 default:
   name:         Ruizhe Wang
-  email:        t@00FFFF.studio
-  web:          https://00FFFF.vercel.app/
-  twitter:      _00FFFF
+  email:        hi@ruizhe.wang
+  web:          https://ruizhe.wang/
+  twitter:      Shadowport_
 
 tester:
   name:         Tester
