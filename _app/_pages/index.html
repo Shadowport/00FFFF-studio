@@ -4,7 +4,12 @@ permalink: /
 thumb_force_logo: true
 --- 
 {%- include amsf/core -%}
-
+<style>
+*::-webkit-media-controls-start-playback-button {
+  display: none!important;
+  -webkit-appearance: none;
+}
+</style>
 <!-- Article wrapper, limit width -->
 <article>
 
@@ -14,7 +19,7 @@ thumb_force_logo: true
   
 
     <h1>
-    <video width="300" height="200" autoplay="autoplay">
+    <video width="300" height="200" preload autoplay muted loop playsinline poster="">
   <source src="{{ amsf_user_assets }}/video/emoji.mov" type="video/mp4" />
 </video>
       Hey, I'm Ruizhe Wang.
