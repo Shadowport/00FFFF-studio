@@ -82,7 +82,7 @@ name:           Ruizhe Wang
 # - name_short: Sparanoid
 #
 # Default:      AMSF
-name_short:     CYAN
+name_short:     RZW
 
 # Site description
 #
@@ -171,9 +171,9 @@ service_worker:
 
 # Google Analytics tracking code
 google_analytics:
-  enabled:      false
-  id:           UA-xxxxxxx
-  url:          https://www.google-analytics.com/analytics.js
+  enabled:      true
+  id:           G-X3Q4DEM4YC
+  url:          https://www.googletagmanager.com/gtag/js?id=G-X3Q4DEM4YC
 
 # Site Twitter account handle
 twitter:        Shadowport_
